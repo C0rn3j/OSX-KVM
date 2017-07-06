@@ -29,6 +29,9 @@ App Store problems.
 
 ### FakeSMC installation
 
+This option is not recommended. Building latest QEMU from Git repository is
+recommended instead.
+
 * Do the following steps as `root` user on the Virtual Machine (VM).
 
   ```
